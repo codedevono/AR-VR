@@ -28,9 +28,9 @@ I'm a complete beginner learning augmented and virtual reality in public. The en
 
 ## Live demos
 
-Demos are hosted on GitHub Pages: https://codedevono.github.io/ar-vr/
+Demos are hosted on GitHub Pages: https://codedevono.github.io/AR-VR/
 
-- [01 Hello scene](https://codedevono.github.io/ar-vr/01-web-3d/)
+- [01 Hello scene](https://codedevono.github.io/AR-VR/01-web-3d/)
 
 ## Safety
 
