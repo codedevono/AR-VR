@@ -1,0 +1,23 @@
+# Secrets: never commit these (this repo is public)
+.env
+*.key
+*.pem
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies and builds
+node_modules/
+dist/
+
+# Unity (used later for the headset work)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
